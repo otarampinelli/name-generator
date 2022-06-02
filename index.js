@@ -14,5 +14,3 @@ function nameGenerator(totalOfNames) {
 
     return listOfGeneratedNames
 }
-
-console.log(nameGenerator(10))
