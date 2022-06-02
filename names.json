@@ -1,0 +1,28 @@
+{
+  "data": {
+    "firstnames": [
+      "Liam",
+      "Emma",
+      "Elijah",
+      "Ava",
+      "William",
+      "Evelyn",
+      "Benjamin",
+      "Mia",
+      "Henry",
+      "Charlotte"
+    ],
+    "lastnames": [
+      "Smith",
+      "Johnson",
+      "Williams",
+      "Brown",
+      "Jones",
+      "Garcia",
+      "Miller",
+      "Davis",
+      "Rodriguez",
+      "Martinez"
+    ]
+  }
+}
