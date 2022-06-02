@@ -2,7 +2,7 @@ const names = require('./names.json')
 
 const { firstnames, lastnames } = names.data
 
-function nameGenerator(totalOfNames) {
+module.exports = function nameGenerator(totalOfNames) {
     const listOfGeneratedNames = []
     let initializer = 0
     while (initializer <= totalOfNames) {
